@@ -1,0 +1,73 @@
+#a{
+    border-width: 10px;
+    border-color: red;
+    border-style: solid;
+    width: 20%;
+    text-align: center; 
+}
+
+#b{
+    border-width: 10px;
+    border-color: rgb(0, 255, 0);
+    border-style: dotted;
+    width: 20%;
+    text-align: center; 
+}
+
+#c{
+    border-width: 10px;
+    border-color:green;
+    border-style: dashed;
+    width: 40%;
+    text-align: center; 
+}
+
+#d{
+    border-width: 10px;
+    border-color: khaki;
+    border-style: double;
+    width: 20%;
+    text-align: center; 
+}
+
+#u{
+    width: 400px;
+    height: 400px;
+    border-width: 15px;
+    border-color: rgb(228, 240, 140);
+    border-style: ridge;
+    width: 20%;    
+}
+
+#x{
+    width: 400px;
+    height: 400px;
+    border-width: 15px;
+    border-color: navy;
+    border-style: groove;
+    width: 20%;    
+}
+
+#y{
+    width: 400px;
+    height: 400px;
+    border-width: 15px;
+    border-color: rgb(150, 140, 240);
+    border-style: inset;
+    width: 20%;    
+}
+
+#z{
+    width: 400px;
+    height: 400px;
+    border-width: 15px;
+    border-color: hotpink;
+    border-style: outset;
+    width: 20%;    
+}
+
+#s{
+    border: 5px red solid;
+    width: 40%;
+    text-align: center;
+}
